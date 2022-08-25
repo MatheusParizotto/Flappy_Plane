@@ -5,5 +5,4 @@
 - Fiz com a intenção de publicar na internet para que as pessoas possam jogar quando não tiverem coisa melhor para fazer;
 
 # Para testar:
-- Acessar o link https://dev-sceptrum.itch.io/flappy-plane;
-- Aceito doações 😎 🤝;
+- Acessar o link https://dev-sceptrum.itch.io/flappy-plane (Aceito doações 😎🤝);
