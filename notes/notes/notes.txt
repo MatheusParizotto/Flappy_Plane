@@ -1,0 +1,56 @@
+1 - Player
+	1.1 - Importação das sprites / ok
+	1.2 - Criar objeto player e realizar o setup de sprites / ok
+	1.3 - Colocar player na room / ok
+	1.4 - Fazendo o player cair ao iniciar o jogo / ok
+	1.5 - Criando comando para o player subir ao apertar espaço / ok
+	1.6 - Simulando gravidade / ok
+	1.7 - Limitar a velociade de queda do avião / ok
+	1.8 - Reiniciar ao colidir com o obstáculo / ok
+	1.9 - Aplicar sprite de fumaça para quando o avião subir / ok
+	1.10 - Fazer a fumaça mudar de tamanho / ok
+	1.11 - Fazer fumaça desaparecer com o tempo / ok
+	1.12 - Reiniciar o jogo ao sair da tela / ok
+
+2 - Obstáculos
+	2.1 - Importar sprites / ok
+	2.2 - Criar objetos e setar sprites / ok
+	2.3 - Ajustar espaço entres as montanhas na room / ok
+	2.4 - Fazer as montanhas se moverem para a esquerda / ok
+	2.5 - Aumentar a velocidade de acordo com o level / ok
+	
+3 - Geração de obstáculos
+	3.1 - Criar evento que se repete / ok
+	3.2 - Criar montanhas proceduralmente / ok 
+	3.3 - Alterar frequência da criação das montanhas / ok
+	3.4 - Altera posição entre as montanhas / ok
+	3.5 - Manter o mesmo espaço entre as montanhas / ok
+	3.6 - Ajustar o intervalo das montanhas conforme o level / ok
+
+4 - Background
+	4.1 - Adicionar sprite para o background / ok
+	4.2 - Adicionar movimento no background / ok
+	4.3 - Ajustar a velocidade do backgroun conforme o level / ok
+	4.4 - Criar o chão da room / ok
+
+5 - Pontuação
+	5.1 - Iniciar o sistema de pontos / ok
+	5.2 - Fazer player ganhar pontos / ok
+	5.3 - Exibir pontos na tela / ok
+	5.4 - Trocar fonte de exibição / ok
+	5.5 - Multiplicar pontos de acordo com o level / ok
+	
+6 - Sistema de level
+	6.1 - Iniciar sistema de leveis / ok
+	6.2 - Aumentar leveis / ok
+	6.3 - Exibir o level / ok
+	
+7 - Sons
+	7.1 - Importar som de fundo / ok
+	7.2 - Definir som para quando o player subir de level / ok
+	
+8 - Tela inicial
+	8.1 - Criar room da tela inicial / ok
+	8.2 - Importat sprite de apresentação / ok
+	8.3 - Criar animação da sprite / ok
+	8.4 - Criar objeto para navegar entre uma room e outra / ok
